@@ -1899,4 +1899,7 @@ section {
 .img-fluid{
   min-height: 8.5em;
 }
+.img-fluid2{
+  min-height: 4em;
+}
 /* Contact Page */
